@@ -1,0 +1,5 @@
+{
+  "userNameField": "#login_field",
+  "passwordField": "#password",
+  "submitButton": ".js-sign-in-button"
+}
