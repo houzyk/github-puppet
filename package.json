@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "auth": "node src/auth/auth.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Houzair Koussa",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "puppeteer": "^19.7.5"
   }
 }
